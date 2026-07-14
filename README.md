@@ -17,6 +17,7 @@
 | 9 | 装修避坑问答 | 装修常见问题Q&A，问什么答什么 |
 | 10 | 装修增项避雷 | 识别装修增项陷阱，防止预算超支 |
 | 11 | 装修公司避雷指南 | 选择装修公司的避坑指南 |
+| 12 | 装修预算计算器 | 算装修要花多少钱，半包/主材/全屋定制分项估算，附西安参考价目表 |
 
 ## 安装
 
@@ -35,3 +36,4 @@ npx skills add zx029w/zhuangxiu-skills --skill 装修翻车急救
 npx skills add zx029w/zhuangxiu-skills --skill 装修避坑问答
 npx skills add zx029w/zhuangxiu-skills --skill 装修增项避雷
 npx skills add zx029w/zhuangxiu-skills --skill 装修公司避雷指南
+npx skills add zx029w/zhuangxiu-skills --skill 装修预算计算器

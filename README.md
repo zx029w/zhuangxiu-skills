@@ -1,6 +1,6 @@
 # 装修避坑独立 Skill 合集
 
-11个装修避坑独立Skill，覆盖装修全流程。基于 SKILL.md 标准格式，兼容 skills.sh 生态。
+13个装修避坑独立Skill，覆盖装修全流程。基于 SKILL.md 标准格式，兼容 skills.sh 生态。
 
 ## 技能列表
 
@@ -18,6 +18,7 @@
 | 10 | 装修增项避雷 | 识别装修增项陷阱，防止预算超支 |
 | 11 | 装修公司避雷指南 | 选择装修公司的避坑指南 |
 | 12 | 装修预算计算器 | 算装修要花多少钱，半包/主材/全屋定制分项估算，附西安参考价目表 |
+| 13 | 装修水电避坑指南 | 水电隐蔽工程避坑，覆盖插座布局、开关、防水、水路改造、强弱电、验收标准 |
 
 ## 安装
 
@@ -37,3 +38,4 @@ npx skills add zx029w/zhuangxiu-skills --skill 装修避坑问答
 npx skills add zx029w/zhuangxiu-skills --skill 装修增项避雷
 npx skills add zx029w/zhuangxiu-skills --skill 装修公司避雷指南
 npx skills add zx029w/zhuangxiu-skills --skill 装修预算计算器
+npx skills add zx029w/zhuangxiu-skills --skill 装修水电避坑指南

@@ -1,7 +1,7 @@
 ---
-name: zhuangxiu-shuidian-bikeng
-identifier: zhuangxiu-shuidian-bikeng
-slug: zhuangxiu-shuidian-bikeng
+name: 装修水电避坑指南
+identifier: zhuangxiu-shuidian-bikeng-ready
+slug: zhuangxiu-shuidian-bikeng-ready
 description: 【装修隐蔽工程必看】水电是装修第一步、最容易被坑的环节——绕路加米数、不估价坐地起价、进口水管忽悠、水电包死偷工、走顶多花钱、横平竖直当质量、验收一堆专业名词看不懂？这个Skill内置装修课堂知识库，覆盖水电规划、计费估价、施工交底、验收标准、常见坑与套路、10种不建议做法、插座开关布局、防水避坑、水路改造、电路强弱电。适合拿到水电报价、准备交底、担心被加价、想自己看懂水电的业主。
 version: 1.0.0
 tags:

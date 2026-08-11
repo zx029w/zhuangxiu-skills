@@ -1,5 +1,5 @@
 ---
-name: 适童化装修指南
+name: shictonghua-zhuangxiu-zhinan-ready
 identifier: shictonghua-zhuangxiu-zhinan-ready
 slug: shictonghua-zhuangxiu-zhinan-ready
 description: 【儿童房装修必看】家里有小孩、正准备要孩子、或想给儿童房做环保安全装修？这个 Skill 内置装修课堂知识库，专门讲"适童化"——儿童是最易受甲醛伤害的人群，儿童房必须实木/ENF/控总量。问儿童房怎么装环保、问儿童房墙面地面用什么、问儿童家具选实木还是人造板、问孩子学习/游戏专区怎么规划、问有娃家庭怎么防磕碰防污染，全部覆盖。适合家里有娃、备孕婚房、想装出健康儿童房的业主。

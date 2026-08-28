@@ -1,6 +1,6 @@
 # 装修避坑独立 Skill 合集
 
-16个装修避坑独立Skill，覆盖装修全流程。基于 SKILL.md 标准格式，兼容 skills.sh 生态。
+19个装修避坑独立Skill，覆盖装修全流程。基于 SKILL.md 标准格式，兼容 skills.sh 生态。
 
 ## 技能列表
 
@@ -22,6 +22,9 @@
 | 14 | 适童化装修指南  | 儿童房环保安全装修避坑，内置装修课堂知识库，覆盖儿童家具/板材/墙面地面/布局/甲醛预防 |
 | 15 | 收纳储物不踩雷  | 装修前全屋收纳规划，覆盖玄关、厨房、衣柜、客厅、卫生间、阳台等空间            |
 | 16 | 厨房避坑指南   | 覆盖厨房布局、水电、橱柜、台面、收纳、灯光、安全的全流程避坑指南             |
+| 17 | 卫生间装修避坑指南 | 覆盖干湿分离、防水、地漏、美缝、瓷砖、浴室柜、马桶、淋浴房等全流程，一次装对不返工 |
+| 18 | 客厅装修避坑指南 | 覆盖客厅布局、沙发茶几、电视墙、吊顶、地砖、灯光、窗帘、阳台等，装出实用有品质的客厅 |
+| 19 | 卧室装修避坑指南 | 覆盖卧室布局、床与床垫、衣柜、窗帘、隔音、灯光、飘窗、榻榻米等，装出好睡的卧室 |
 
 ## 安装
 
@@ -29,6 +32,11 @@
 
 ```bash
 npx skills add zx029w/zhuangxiu-skills
+```
+
+### 方式二：单独安装指定技能
+
+```bash
 npx skills add zx029w/zhuangxiu-skills --skill 全屋定制不踩雷
 npx skills add zx029w/zhuangxiu-skills --skill 老房改造不踩雷
 npx skills add zx029w/zhuangxiu-skills --skill 装修合同审核
@@ -45,4 +53,7 @@ npx skills add zx029w/zhuangxiu-skills --skill 装修水电避坑指南
 npx skills add zx029w/zhuangxiu-skills --skill 适童化装修指南
 npx skills add zx029w/zhuangxiu-skills --skill 收纳储物不踩雷
 npx skills add zx029w/zhuangxiu-skills --skill 厨房避坑指南
+npx skills add zx029w/zhuangxiu-skills --skill weishengjian-zhuangxiu-bikeng
+npx skills add zx029w/zhuangxiu-skills --skill keting-zhuangxiu-bikeng
+npx skills add zx029w/zhuangxiu-skills --skill woshi-zhuangxiu-bikeng
 ```

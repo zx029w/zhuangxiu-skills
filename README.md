@@ -1,8 +1,13 @@
 # 装修避坑独立 Skill 合集
 
-19个装修避坑独立Skill，覆盖装修全流程。基于 SKILL.md 标准格式，兼容 skills.sh 生态。
+37个装修避坑独立Skill，覆盖装修全流程。基于 SKILL.md 标准格式，兼容 skills.sh 生态。
+
+目录名统一使用中文全名拼音（如 jiadian-bikeng-zhinan），中文名见各目录下 SKILL.md 的 displayName 字段。
+新作 18 个 Skill 的 references/ 文章按发布时间倒序排列（最新在前）。
 
 ## 技能列表
+
+### 一、经典 19 个
 
 | #  | 技能名称     | 说明                                           |
 | -- | -------- | -------------------------------------------- |
@@ -25,6 +30,29 @@
 | 17 | 卫生间装修避坑指南 | 覆盖干湿分离、防水、地漏、美缝、瓷砖、浴室柜、马桶、淋浴房等全流程，一次装对不返工 |
 | 18 | 客厅装修避坑指南 | 覆盖客厅布局、沙发茶几、电视墙、吊顶、地砖、灯光、窗帘、阳台等，装出实用有品质的客厅 |
 | 19 | 卧室装修避坑指南 | 覆盖卧室布局、床与床垫、衣柜、窗帘、隔音、灯光、飘窗、榻榻米等，装出好睡的卧室 |
+
+### 二、新作 18 个（IMA 会员知识库生成）
+
+| #  | 技能名称 | 目录(slug) | 篇数 | 说明 |
+| -- | ---- | ---------- | ---- | ---- |
+| 20 | 家电避坑指南 | jiadian-bikeng-zhinan | 256 | 冰箱厨电、空调地暖新风、热水器净水、洗衣机清洁电器、电视投影、安装加价与售后避坑 |
+| 21 | 阳台避坑指南 | yangtai-bikeng-zhinan | 255 | 洗衣晾晒区、封窗与打通、阳台柜收纳、防水保温施工、无阳台补救 |
+| 22 | 门窗封窗避坑指南 | menchuang-fengchuang-bikeng-zhinan | 170 | 入户门室内门、断桥铝封窗、纱窗五金、隔音保温与安装验收 |
+| 23 | 墙面施工避坑指南 | qiangmian-shigong-bikeng-zhinan | 221 | 腻子乳胶漆、壁纸壁布、护墙板、开裂发霉与基层处理 |
+| 24 | 灯光照明避坑指南 | dengguang-zhaoming-bikeng-zhinan | 150 | 无主灯设计、色温显色、灯具选型布光、开关回路预留 |
+| 25 | 小户型装修避坑指南 | xiaohuxing-zhuangxiu-bikeng-zhinan | 254 | 空间扩容、多功能家具、动线与收纳、视觉放大技巧 |
+| 26 | 装修设计技巧大全 | zhuangxiu-sheji-jiqiao-daquan | 256 | 风格定位、色彩搭配、空间布局、设计细节与人体工学尺寸 |
+| 27 | 橱柜定制避坑指南 | chugui-dingzhi-bikeng-zhinan | 256 | 橱柜布局、板材五金、台面水槽、计价方式与增项陷阱 |
+| 28 | 精装修改造避坑指南 | jingzhuangxiu-gaizao-bikeng-zhinan | 255 | 精装房验房、局部拆改、软装进场、质量问题与维权 |
+| 29 | 装修五金选购指南 | zhuangxiu-wujin-xuangou-zhinan | 143 | 铰链导轨、门锁合页、龙头地漏、五金品牌与耐用度 |
+| 30 | 老人房装修指南 | laorenfang-zhuangxiu-zhinan | 206 | 适老化安全、防滑扶手、无障碍动线、照明与夜间起夜 |
+| 31 | 飘窗窗户装修指南 | piaochuang-chuanghu-zhuangxiu-zhinan | 256 | 飘窗改造、窗台石、窗帘盒、保温防水与护栏安全 |
+| 32 | 装修验收指南 | zhuangxiu-yanshou-zhinan | 175 | 水电验收、闭水试验、墙地砖空鼓、竣工验收与整改清单 |
+| 33 | 瓷砖木地板选购指南 | cizhuan-mudiban-xuangou-zhinan | 255 | 瓷砖木地板选砖、铺贴工艺、美缝踢脚、耐磨与保养 |
+| 34 | 复式跃层LOFT装修指南 | fushi-yuelou-loft-zhuangxiu-zhinan | 255 | 楼梯设计、层高利用、挑空改造、复式动线与采光 |
+| 35 | 吊顶装修指南 | diaoding-zhuangxiu-zhinan | 254 | 吊顶造型、回光灯槽、层高与压抑感、厨卫吊顶选材 |
+| 36 | 装修采光技巧 | zhuangxiu-caiguang-jiqiao | 173 | 自然光引入、暗厅暗卫改造、玻璃隔断、反光与镜面运用 |
+| 37 | 装修省钱指南 | zhuangxiu-shengqian-zhinan | 254 | 预算分配、该花该省清单、砍价与报价对比、平价替代方案 |
 
 ## 安装
 
@@ -56,4 +84,22 @@ npx skills add zx029w/zhuangxiu-skills --skill 厨房避坑指南
 npx skills add zx029w/zhuangxiu-skills --skill weishengjian-zhuangxiu-bikeng
 npx skills add zx029w/zhuangxiu-skills --skill keting-zhuangxiu-bikeng
 npx skills add zx029w/zhuangxiu-skills --skill woshi-zhuangxiu-bikeng
+npx skills add zx029w/zhuangxiu-skills --skill jiadian-bikeng-zhinan
+npx skills add zx029w/zhuangxiu-skills --skill yangtai-bikeng-zhinan
+npx skills add zx029w/zhuangxiu-skills --skill menchuang-fengchuang-bikeng-zhinan
+npx skills add zx029w/zhuangxiu-skills --skill qiangmian-shigong-bikeng-zhinan
+npx skills add zx029w/zhuangxiu-skills --skill dengguang-zhaoming-bikeng-zhinan
+npx skills add zx029w/zhuangxiu-skills --skill xiaohuxing-zhuangxiu-bikeng-zhinan
+npx skills add zx029w/zhuangxiu-skills --skill zhuangxiu-sheji-jiqiao-daquan
+npx skills add zx029w/zhuangxiu-skills --skill chugui-dingzhi-bikeng-zhinan
+npx skills add zx029w/zhuangxiu-skills --skill jingzhuangxiu-gaizao-bikeng-zhinan
+npx skills add zx029w/zhuangxiu-skills --skill zhuangxiu-wujin-xuangou-zhinan
+npx skills add zx029w/zhuangxiu-skills --skill laorenfang-zhuangxiu-zhinan
+npx skills add zx029w/zhuangxiu-skills --skill piaochuang-chuanghu-zhuangxiu-zhinan
+npx skills add zx029w/zhuangxiu-skills --skill zhuangxiu-yanshou-zhinan
+npx skills add zx029w/zhuangxiu-skills --skill cizhuan-mudiban-xuangou-zhinan
+npx skills add zx029w/zhuangxiu-skills --skill fushi-yuelou-loft-zhuangxiu-zhinan
+npx skills add zx029w/zhuangxiu-skills --skill diaoding-zhuangxiu-zhinan
+npx skills add zx029w/zhuangxiu-skills --skill zhuangxiu-caiguang-jiqiao
+npx skills add zx029w/zhuangxiu-skills --skill zhuangxiu-shengqian-zhinan
 ```

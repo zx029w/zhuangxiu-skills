@@ -1,6 +1,6 @@
 # 装修避坑独立 Skill 合集
 
-37个装修避坑独立Skill，覆盖装修全流程。基于 SKILL.md 标准格式，兼容 skills.sh 生态。
+38个装修避坑独立Skill，覆盖装修全流程。基于 SKILL.md 标准格式，兼容 skills.sh 生态。
 
 目录名统一使用中文全名拼音（如 jiadian-bikeng-zhinan），中文名见各目录下 SKILL.md 的 displayName 字段。
 新作 18 个 Skill 的 references/ 文章按发布时间倒序排列（最新在前）。
@@ -31,7 +31,7 @@
 | 18 | 客厅装修避坑指南 | 覆盖客厅布局、沙发茶几、电视墙、吊顶、地砖、灯光、窗帘、阳台等，装出实用有品质的客厅 |
 | 19 | 卧室装修避坑指南 | 覆盖卧室布局、床与床垫、衣柜、窗帘、隔音、灯光、飘窗、榻榻米等，装出好睡的卧室 |
 
-### 二、新作 18 个（IMA 会员知识库生成）
+### 二、新作 19 个（IMA 会员知识库生成）
 
 | #  | 技能名称 | 目录(slug) | 篇数 | 说明 |
 | -- | ---- | ---------- | ---- | ---- |
@@ -53,6 +53,7 @@
 | 35 | 吊顶装修指南 | diaoding-zhuangxiu-zhinan | 254 | 吊顶造型、回光灯槽、层高与压抑感、厨卫吊顶选材 |
 | 36 | 装修采光技巧 | zhuangxiu-caiguang-jiqiao | 173 | 自然光引入、暗厅暗卫改造、玻璃隔断、反光与镜面运用 |
 | 37 | 装修省钱指南 | zhuangxiu-shengqian-zhinan | 254 | 预算分配、该花该省清单、砍价与报价对比、平价替代方案 |
+| 38 | 装修风格选择与搭配指南 | zhuangxiu-fengge-dapei-zhinan | 120 | 主流风格特点对比、色彩搭配原则、软硬装风格统一、预算与风格错配避坑 |
 
 ## 安装
 
@@ -102,4 +103,5 @@ npx skills add zx029w/zhuangxiu-skills --skill fushi-yuelou-loft-zhuangxiu-zhina
 npx skills add zx029w/zhuangxiu-skills --skill diaoding-zhuangxiu-zhinan
 npx skills add zx029w/zhuangxiu-skills --skill zhuangxiu-caiguang-jiqiao
 npx skills add zx029w/zhuangxiu-skills --skill zhuangxiu-shengqian-zhinan
+npx skills add zx029w/zhuangxiu-skills --skill zhuangxiu-fengge-dapei-zhinan
 ```

@@ -1,6 +1,6 @@
 # 装修避坑独立 Skill 合集
 
-38个装修避坑独立Skill，覆盖装修全流程。基于 SKILL.md 标准格式，兼容 skills.sh 生态。
+42个装修避坑独立Skill，覆盖装修全流程。基于 SKILL.md 标准格式，兼容 skills.sh 生态。
 
 目录名统一使用中文全名拼音（如 jiadian-bikeng-zhinan），中文名见各目录下 SKILL.md 的 displayName 字段。
 新作 18 个 Skill 的 references/ 文章按发布时间倒序排列（最新在前）。
@@ -55,6 +55,15 @@
 | 37 | 装修省钱指南 | zhuangxiu-shengqian-zhinan | 254 | 预算分配、该花该省清单、砍价与报价对比、平价替代方案 |
 | 38 | 装修风格选择与搭配指南 | zhuangxiu-fengge-dapei-zhinan | 120 | 主流风格特点对比、色彩搭配原则、软硬装风格统一、预算与风格错配避坑 |
 
+### 三、新作 4 个（2026-09 扩展）
+
+| #  | 技能名称 | 目录(slug) | 篇数 | 说明 |
+| -- | ---- | ---------- | ---- | ---- |
+| 39 | 防水避坑指南 | fangshui-bikeng-zhinan | 26 | 卫生间/阳台/厨房防水、闭水试验、涂料卷材选择、管根阴角细部处理、渗漏维修与验收 |
+| 40 | 买房购房避坑指南 | maifang-goufang-bikeng-zhinan | 32 | 户型楼层朝向选择、看房验房、中介与开发商避坑、贷款税费、收房交付 |
+| 41 | 玄关与书房装修指南 | xuanguan-shufang-zhuangxiu-zhinan | 28 | 玄关鞋柜收纳、换鞋动线、隔断屏风、书房书桌书柜、灯光采光与隔音 |
+| 42 | 家具软装选购与搭配指南 | jiaju-ruanzhuang-xuangou-zhinan | 28 | 沙发床垫衣柜窗帘选购、材质鉴别、配色风格搭配、预算分配与避坑 |
+
 ## 安装
 
 ### 方式一：安装全部技能
@@ -104,4 +113,8 @@ npx skills add zx029w/zhuangxiu-skills --skill diaoding-zhuangxiu-zhinan
 npx skills add zx029w/zhuangxiu-skills --skill zhuangxiu-caiguang-jiqiao
 npx skills add zx029w/zhuangxiu-skills --skill zhuangxiu-shengqian-zhinan
 npx skills add zx029w/zhuangxiu-skills --skill zhuangxiu-fengge-dapei-zhinan
+npx skills add zx029w/zhuangxiu-skills --skill fangshui-bikeng-zhinan
+npx skills add zx029w/zhuangxiu-skills --skill maifang-goufang-bikeng-zhinan
+npx skills add zx029w/zhuangxiu-skills --skill xuanguan-shufang-zhuangxiu-zhinan
+npx skills add zx029w/zhuangxiu-skills --skill jiaju-ruanzhuang-xuangou-zhinan
 ```

@@ -1,6 +1,6 @@
 # 装修避坑独立 Skill 合集
 
-45个装修避坑独立Skill，覆盖装修全流程。基于 SKILL.md 标准格式，兼容 skills.sh 生态。
+46个装修避坑独立Skill，覆盖装修全流程。基于 SKILL.md 标准格式，兼容 skills.sh 生态。
 
 目录名统一使用中文全名拼音（如 jiadian-bikeng-zhinan），中文名见各目录下 SKILL.md 的 displayName 字段。  
 新作 18 个 Skill 的 references/ 文章按发布时间倒序排列（最新在前）。
@@ -64,13 +64,14 @@
 | 41 | 玄关与书房装修指南   | xuanguan-shufang-zhuangxiu-zhinan | 28 | 玄关鞋柜收纳、换鞋动线、隔断屏风、书房书桌书柜、灯光采光与隔音          |
 | 42 | 家具软装选购与搭配指南 | jiaju-ruanzhuang-xuangou-zhinan   | 28 | 沙发床垫衣柜窗帘选购、材质鉴别、配色风格搭配、预算分配与避坑           |
 
-### 四、新作 3 个（2026-09 扩展二）
+### 四、新作 4 个（2026-09 扩展二）
 
 | #  | 技能名称   | 目录(slug)                  | 篇数  | 说明                                        |
 | -- | ------ | ------------------------- | --- | ----------------------------------------- |
 | 43 | 窗帘选购指南 | chuanglian-xuangou-zhinan | 32  | 窗帘款式、遮光防晒、布艺纱帘、罗马杆轨道、飘窗异形窗、电动智能窗帘、安装测量与搭配 |
 | 44 | 装修建材选购 | zhuangxiu-jiancai-xuangou | 180 | 瓷砖木地板、涂料乳胶漆、板材门窗、五金管件、防水美缝、石材岩板等主材辅材选购避坑  |
 | 45 | 装修施工手册 | zhuangxiu-shigong-shouce  | 180 | 拆改交底、水电施工、瓦工贴砖、木工吊顶、油漆墙面、防水闭水、工序工期、验收监工   |
+| 46 | 餐厅装修避坑指南 | canting-bikeng-zhinan | 72 | 餐厅布局动线、餐桌餐椅、餐边柜收纳、卡座设计、灯光吊灯、客餐厅一体、西厨吧台岛台等全流程避坑 |
 
 ## 安装
 
@@ -128,4 +129,6 @@ npx skills add zx029w/zhuangxiu-skills --skill jiaju-ruanzhuang-xuangou-zhinan
 npx skills add zx029w/zhuangxiu-skills --skill chuanglian-xuangou-zhinan
 npx skills add zx029w/zhuangxiu-skills --skill zhuangxiu-jiancai-xuangou
 npx skills add zx029w/zhuangxiu-skills --skill zhuangxiu-shigong-shouce
+npx skills add zx029w/zhuangxiu-skills --skill canting-bikeng-zhinan
+
 ```

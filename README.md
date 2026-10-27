@@ -1,6 +1,6 @@
 # 装修避坑独立 Skill 合集
 
-46个装修避坑独立Skill，覆盖装修全流程。基于 SKILL.md 标准格式，兼容 skills.sh 生态。
+48个装修避坑独立Skill，覆盖装修全流程。基于 SKILL.md 标准格式，兼容 skills.sh 生态。
 
 目录名统一使用中文全名拼音（如 jiadian-bikeng-zhinan），中文名见各目录下 SKILL.md 的 displayName 字段。  
 新作 18 个 Skill 的 references/ 文章按发布时间倒序排列（最新在前）。
@@ -73,6 +73,13 @@
 | 45 | 装修施工手册 | zhuangxiu-shigong-shouce  | 180 | 拆改交底、水电施工、瓦工贴砖、木工吊顶、油漆墙面、防水闭水、工序工期、验收监工   |
 | 46 | 餐厅装修避坑指南 | canting-bikeng-zhinan | 72 | 餐厅布局动线、餐桌餐椅、餐边柜收纳、卡座设计、灯光吊灯、客餐厅一体、西厨吧台岛台等全流程避坑 |
 
+### 五、新作 2 个（2026-10 扩展）
+
+| #  | 技能名称      | 目录(slug)               | 篇数 | 说明                                       |
+| -- | --------- | ---------------------- | -- | ---------------------------------------- |
+| 47 | 装修石材选购指南   | shicai-xuancai-bikeng  | 27 | 橱柜台面、浴柜台面、窗台石飘窗、背景墙到材料选择与翻车避坑           |
+| 48 | 去家务化设计指南   | qujiawuha-sheji-zhinan | 27 | 从空间到硬装手法、再到避坑陷阱，系统讲清楚去家务化设计怎么落地        |
+
 ## 安装
 
 ### 方式一：安装全部技能
@@ -130,5 +137,7 @@ npx skills add zx029w/zhuangxiu-skills --skill chuanglian-xuangou-zhinan
 npx skills add zx029w/zhuangxiu-skills --skill zhuangxiu-jiancai-xuangou
 npx skills add zx029w/zhuangxiu-skills --skill zhuangxiu-shigong-shouce
 npx skills add zx029w/zhuangxiu-skills --skill canting-bikeng-zhinan
+npx skills add zx029w/zhuangxiu-skills --skill shicai-xuancai-bikeng
+npx skills add zx029w/zhuangxiu-skills --skill qujiawuha-sheji-zhinan
 
 ```

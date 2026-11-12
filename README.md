@@ -1,6 +1,6 @@
 # 装修避坑独立 Skill 合集
 
-50个装修避坑独立Skill，覆盖装修全流程。基于 SKILL.md 标准格式，兼容 skills.sh 生态。
+51个装修避坑独立Skill，覆盖装修全流程。基于 SKILL.md 标准格式，兼容 skills.sh 生态。
 
 目录名统一使用中文全名拼音（如 jiadian-bikeng-zhinan），中文名见各目录下 SKILL.md 的 displayName 字段。  
 新作 18 个 Skill 的 references/ 文章按发布时间倒序排列（最新在前）。
